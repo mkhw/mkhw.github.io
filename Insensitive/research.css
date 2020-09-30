@@ -117,7 +117,8 @@
 
 .nav ul li{
 	float:left;
-	position:relative;  /* add for sub dropdown .nav ul li ul*/
+	position:relative; 
+/* add for sub dropdown .nav ul li ul*/
 }
 .nav ul li a{
 	color:white;
@@ -145,7 +146,8 @@
 	border-bottom: 1px solid white;
 	width:96px;
 	text-align:center;
-	position:relative; /* add for sub dropdown .nav ul li ul li ul*/
+	position:relative;
+/* add for sub dropdown .nav ul li ul li ul*/
 }
 .nav ul li ul li:last-child{
 	border-bottom: 0px solid;
